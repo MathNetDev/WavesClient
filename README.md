@@ -9,10 +9,10 @@
 
 ## Usage
 
-### admin.html
+### www/admin.html
 1. Using this page manage the creation and deletion of groups in class.
 
-#### student.html 
+### www/student.html 
 1. View student.html to login as a student
 2. Enter the class id (Available on the admin tab of admin.html) and student name 
 3. The list of groups available in the class will be displayed.  Click a group to join.
