@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000534862CB00000000000003B4
+t1397252811
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534862CF000000000000019E
+t1397252815
+s414
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDV.h
+c00000000542C85B70000000000000516
+t1412203959
+s1302
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c00000000542C85B70000000000000D19
+t1412203959
+s3353
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c00000000542C85B700000000000008BA
+t1412203959
+s2234
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c00000000542C85B700000000000004E2
+t1412203959
+s1250
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c00000000542C85B7000000000000183A
+t1412203959
+s6202
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c00000000542C85B70000000000000503
+t1412203959
+s1283
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c00000000542C85B70000000000001ED0
+t1412203959
+s7888
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c00000000542C85B700000000000004CB
+t1412203959
+s1227
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c00000000542C85B70000000000000EBF
+t1412203959
+s3775
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c00000000542C85B70000000000000401
+t1412203959
+s1025
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c00000000542C85B700000000000007E6
+t1412203959
+s2022
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c00000000542C85B70000000000000DDE
+t1412203959
+s3550
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c00000000542C85B700000000000003DA
+t1412203959
+s986
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c00000000542C85B700000000000009A1
+t1412203959
+s2465
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c00000000542C85B700000000000006CF
+t1412203959
+s1743
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c00000000542C85B70000000000004E02
+t1412203959
+s19970
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c00000000542C85B700000000000008F3
+t1412203959
+s2291
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c00000000542C85B7000000000000173C
+t1412203959
+s5948
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c00000000542C85B70000000000000C13
+t1412203959
+s3091
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c00000000542C85B70000000000001B29
+t1412203959
+s6953
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c00000000542C85B70000000000000408
+t1412203959
+s1032
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.h
+c00000000542C85B700000000000003E6
+t1412203959
+s998
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.m
+c00000000542C85B700000000000006BD
+t1412203959
+s1725
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c00000000542C85B7000000000000038D
+t1412203959
+s909
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c00000000542C85B70000000000000AA2
+t1412203959
+s2722
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c00000000542C85B7000000000000041C
+t1412203959
+s1052
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c00000000542C85B7000000000000259E
+t1412203959
+s9630
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c00000000542C85B70000000000000421
+t1412203959
+s1057
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c00000000542C85B70000000000001361
+t1412203959
+s4961
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c00000000542C85B70000000000000ACC
+t1412203959
+s2764
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c00000000542C85B70000000000008FD2
+t1412203959
+s36818
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c00000000542C85B70000000000000689
+t1412203959
+s1673
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c00000000542C85B70000000000003992
+t1412203959
+s14738
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c00000000542C85B700000000000004B4
+t1412203959
+s1204
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c00000000542C85B700000000000029D2
+t1412203959
+s10706
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c00000000542C85B70000000000000392
+t1412203959
+s914
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c00000000542C85B700000000000004D8
+t1412203959
+s1240
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c00000000542C85B7000000000000037D
+t1412203959
+s893
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c00000000542C85B700000000000022CC
+t1412203959
+s8908
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c00000000542C85B700000000000005DA
+t1412203959
+s1498
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c00000000542C85B70000000000001059
+t1412203959
+s4185
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c00000000542C85B700000000000003A0
+t1412203959
+s928
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c00000000542C85B70000000000000584
+t1412203959
+s1412
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c00000000542C85B70000000000000476
+t1412203959
+s1142
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c00000000542C85B70000000000000620
+t1412203959
+s1568
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c00000000542C85B70000000000000346
+t1412203959
+s838
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1412203965
+s64904
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1412203965
+s61396
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1412203965
+s27456
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1412203965
+s18248
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1412203965
+s10568
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1412203965
+s106740
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1412203965
+s57552
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1412203965
+s36632
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1412203965
+s9040
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1412203965
+s22600
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1412203965
+s68880
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1412203965
+s50760
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1412203965
+s162952
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1412203965
+s69040
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1412203965
+s43120
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c00000000542C85BC0000000000000CF3
+t1412203964
+s3315
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1412203965
+s7212
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1412203965
+s10908
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1412203965
+s17328
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1412203965
+s6772
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1412203965
+s9196
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a
+t2
+s0
+
+N/var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch.pch
+t1412203965
+s3241836
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies919be53cbddcb941^5abdf33cbddcb941^---0#1#1#--18"Check dependencies36"E9EDFA77-445A-4129-92EF-D433EA91121C-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.160055
+e433896765.326266
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m232"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1e1b293dbddcb941^ed9b533dbddcb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^4095"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"C83A8629-F4C6-42CA-9E8E-148610596CE7-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.152292
+e433896765.329068
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere21e273dbddcb941^3750543dbddcb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^4053"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"57C47C08-97F1-4D54-A660-39FF0B30676F-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.165115
+e433896765.204394
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler99662a3dbddcb941^dc62363dbddcb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^4053"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"A1A6854C-74EA-40DA-9349-AA541C21999B-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.097205
+e433896765.136218
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m228"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4df9183dbddcb941^f625233dbddcb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^4083"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"FC0D6B82-20CB-4181-929B-03D3F08B08D3-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.207226
+e433896765.235191
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.m202"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb22f353dbddcb941^3d433c3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^4005"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"8048546B-4B42-4631-AC90-A9A99F58E330-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.132756
+e433896765.344391
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere61e223dbddcb941^352a583dbddcb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^4053"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"9C26ACF5-901C-481B-9464-A435BAEF3A01-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.098329
+e433896765.298402
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc764193dbddcb941^29764c3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^4017"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"AADE59E6-F848-442E-A501-DBA15E81B8D1-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.097880
+e433896765.152077
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4b3b193dbddcb941^e277273dbddcb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^4053"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"ED1691D6-BF62-4FD1-AC0F-6D5087C1E1A2-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.325248
+e433896765.348734
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc26b533dbddcb941^1747593dbddcb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^4017"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"187BAE60-8607-4374-B9B5-70BD8FF164A5-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.299540
+e433896765.336786
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.m204"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbbd04c3dbddcb941^003c563dbddcb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^4011"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"ED53C949-840F-4703-AFF2-0D7C675EC29F-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.099512
+e433896765.323027
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m216"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler42b5193dbddcb941^52b8523dbddcb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^4047"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"E9012DF6-B238-408D-B1DA-C266901DFB8C-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.235399
+e433896765.371891
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m220"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf7ab3c3dbddcb941^f8345f3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^4059"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"CD50B358-1193-45ED-BCFD-8F8CA92C2EAB-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.124658
+e433896765.412993
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.m222"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraa0f203dbddcb941^f5ba693dbddcb941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^4065"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"E0A654FD-720F-4AD2-997A-E9A1628B7E58-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.277867
+e433896765.406226
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m224"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3d44473dbddcb941^bdff673dbddcb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^4071"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"4D530ED8-EABF-4B4B-AA80-40C56445CB35-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.099081
+e433896765.159844
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.m212"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6a85193dbddcb941^bb5f293dbddcb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^4035"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"81C2F035-7B1F-4CFF-B9B9-0F437BCE545E-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.137587
+e433896765.164736
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerde59233dbddcb941^4b3e2a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^4077"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"B04F28A3-5913-47E2-970C-38258EC4D9D5-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.097488
+e433896765.131514
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.m214"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5113193dbddcb941^feee213dbddcb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^4041"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"CDAD5E44-E0A6-4B37-82F4-84E522CAD628-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.096961
+e433896765.132131
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m234"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerccef183dbddcb941^dcf6213dbddcb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^4101"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"8486C254-D16E-4EC7-B10C-E191736F99B3-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.098674
+e433896765.124412
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m246"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1766193dbddcb941^b533203dbddcb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^4137"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"664F3392-8C84-4662-AD6B-2F0DCA2D6044-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.133327
+e433896765.276643
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilereece223dbddcb941^fed6463dbddcb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^4077"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"FAD6C4A7-CAF5-439D-B7DC-7AB19F7A51F6-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDV.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDV.h
+s433896764.958147
+e433896764.959480
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDV.h129"[1mCpHeader[0m Classes/CDV.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDV.h[0mae66f53cbddcb941^67d3f53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDV.h00347c41ddffdf42^959"[1mCpHeader[0m Classes/CDV.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDV.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDV.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"F9389219-4155-44A4-B44C-3CBBD037E8F6-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVAvailability.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s433896764.958421
+e433896764.959744
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h153"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m787ef53cbddcb941^2cf4f53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h00347c41ddffdf42^995"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"20F81D77-6924-4BBA-9FF5-864A1700DF20-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s433896764.957959
+e433896764.959432
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h159"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m8c66f53cbddcb941^60e4f53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h00347c41ddffdf42^1004"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"F8E99974-4FDA-4634-90C1-4495EDF141B6-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s433896764.960590
+e433896764.961631
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h167"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m410ef63cbddcb941^8d46f63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h00347c41ddffdf42^1016"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"734353CC-8E5A-409F-A2D2-6044D1B94FA0-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVCommandQueue.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s433896764.960219
+e433896764.961301
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h153"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0md0f1f53cbddcb941^9830f63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h00347c41ddffdf42^995"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"92F9A695-643F-45F4-B363-013272A9ED41-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVConfigParser.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s433896764.961736
+e433896764.962750
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h153"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m9753f63cbddcb941^da8df63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h00347c41ddffdf42^995"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"443E71DD-6F58-4F4C-B7F6-BF24885B4BCF-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVDebug.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s433896764.955252
+e433896764.956888
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVDebug.h139"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m82abf43cbddcb941^dc29f53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVDebug.h00347c41ddffdf42^974"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"000E1F73-FE50-4592-BD9D-79ED72C08D9B-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s433896764.954307
+e433896764.956831
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h163"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0mf46af43cbddcb941^410bf53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h00347c41ddffdf42^1010"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"4340E082-1E97-4EA2-BDC6-1DAF10AD052D-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVJSON.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s433896764.962066
+e433896764.963186
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVJSON.h137"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m9966f63cbddcb941^f297f63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVJSON.h00347c41ddffdf42^971"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"A45BD747-5A9F-4A7B-B60B-F82F33ACED79-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVLocalStorage.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s433896764.958721
+e433896764.960211
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h153"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0mf19cf53cbddcb941^7afdf53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h00347c41ddffdf42^995"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"498F60D1-159F-4AB0-8861-C42CAFAB2AE8-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVPlugin.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s433896764.955069
+e433896764.956718
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h141"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m38a1f43cbddcb941^06f2f43cbddcb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h00347c41ddffdf42^977"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"22A4FFD9-AFE6-41C2-BB73-21740EB39752-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVPluginResult.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s433896764.954677
+e433896764.956968
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h153"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0mae82f43cbddcb941^ed2df53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h00347c41ddffdf42^995"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"01F1D48B-F1F9-4846-96C1-AFE3AB2EFA05-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s433896764.961359
+e433896764.962417
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h179"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m923df63cbddcb941^8866f63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h00347c41ddffdf42^1034"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"239A8EB7-4C30-45A4-AD21-80AD26C718E4-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVShared.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s433896764.960819
+e433896764.961814
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVShared.h141"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m1b13f63cbddcb941^0053f63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVShared.h00347c41ddffdf42^977"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"5E48DC77-7B7E-4164-B485-4115F66C3A10-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVTimer.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s433896764.962840
+e433896764.964020
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVTimer.h139"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m6daaf63cbddcb941^8ecdf63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVTimer.h00347c41ddffdf42^974"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"AEE1E98E-7C67-4AAB-95DB-B08F0528E6E6-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVURLProtocol.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s433896764.956957
+e433896764.958278
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h151"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m4a28f53cbddcb941^5da3f53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h00347c41ddffdf42^992"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"7EE7CC13-C360-40D9-A628-5F89161D414D-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s433896764.962572
+e433896764.963652
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h155"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m8691f63cbddcb941^89b7f63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h00347c41ddffdf42^998"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"CA923773-66ED-44DB-9F2D-DCCBA8A156C0-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVViewController.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s433896764.957586
+e433896764.958658
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h157"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0mb342f53cbddcb941^dcb8f53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h00347c41ddffdf42^1001"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"E776B6F9-36AB-4AC4-BDF8-37B2A8835CCD-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s433896764.962356
+e433896764.963826
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h159"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m5b97f63cbddcb941^01c3f63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h00347c41ddffdf42^1004"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"81F26E1C-8431-4A0C-89B0-EDE0531DAEBE-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/CDVWhitelist.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s433896764.956262
+e433896764.957661
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h147"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0mcefaf43cbddcb941^1781f53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h00347c41ddffdf42^986"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"B558BFE0-6040-4A9F-91F9-2E1310C1493A-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s433896764.959700
+e433896764.960958
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h161"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m66dbf53cbddcb941^6421f63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h00347c41ddffdf42^1007"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"34AC4214-892F-4129-A50C-7433ED915348-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/NSData+Base64.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s433896764.954477
+e433896764.956859
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h149"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m3178f43cbddcb941^5f08f53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h00347c41ddffdf42^989"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"B8F014F3-A832-4E7B-8D4A-4FFF7986B44A-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s433896764.954210
+e433896764.956825
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h169"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0mb669f43cbddcb941^39eef43cbddcb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h00347c41ddffdf42^1019"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"E317D0F0-15D5-4EF2-9F8C-847568E77CD4-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s433896764.955441
+e433896764.956995
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h181"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m06b8f43cbddcb941^4d65f53cbddcb941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h00347c41ddffdf42^1037"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"6570750E-BDF4-478A-805C-A64E229A9ED7-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s433896764.959194
+e433896764.960296
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h161"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0md0b7f53cbddcb941^b004f63cbddcb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h00347c41ddffdf42^1007"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova36"85664F14-CF3F-410B-A019-522E2D847AEB-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CLibtool /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a normal i386
+s433896765.414501
+e433896765.424238
+r1
+xLibtool
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"[1mLibtool[0m /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a normal i386109"[1mLibtool[0m /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a normal i3860d356a3dbddcb941^aa9a6c3dbddcb941^---0#0#1#--1290"[1mLibtool[0m /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -filelist /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a36"EDFE4916-3BC6-4F0C-B2DA-9648AE297E9A-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+
+CProcessPCH /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896764.964598
+e433896765.096274
+r1
+xProcessPCH
+x/var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch299"[1mProcessPCH[0m /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6808f73cbddcb941^98a6183dbddcb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^4015"[1mProcessPCH[0m /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch.d -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-adpzzdbzwevialdsgdbgpygfbivt/CordovaLib_Prefix.pch.pch36"60F5C860-5B57-4A87-8212-DBBF163E93A0-
+b8447F9E8-D9F9-41D9-BCAD-E8B1AF552CCC
+

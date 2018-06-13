@@ -1,0 +1,815 @@
+TWaveBuilder
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Info.plist /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Script-304B58A110DAC018002A0835.sh
+cCpResource WaveBuilder/Resources/icons/icon-76.png build/emulator/WaveBuilder.app/icon-76.png
+cCpResource WaveBuilder/Resources/icons/icon-40@2x.png build/emulator/WaveBuilder.app/icon-40@2x.png
+cCpResource WaveBuilder/Resources/icons/icon-72.png build/emulator/WaveBuilder.app/icon-72.png
+cCpResource WaveBuilder/Resources/icons/icon.png build/emulator/WaveBuilder.app/icon.png
+cCpResource WaveBuilder/Resources/icons/icon@2x.png build/emulator/WaveBuilder.app/icon@2x.png
+cCopyStringsFile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/en.lproj/Localizable.strings WaveBuilder/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.xib
+cCpResource WaveBuilder/Resources/icons/icon-50.png build/emulator/WaveBuilder.app/icon-50.png
+cCpResource WaveBuilder/Resources/icons/icon-60@2x.png build/emulator/WaveBuilder.app/icon-60@2x.png
+cCopyStringsFile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/de.lproj/Localizable.strings WaveBuilder/Resources/de.lproj/Localizable.strings
+cCpResource WaveBuilder/Resources/icons/icon-small.png build/emulator/WaveBuilder.app/icon-small.png
+cCpResource WaveBuilder/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/WaveBuilder.app/Default-Landscape@2x~ipad.png
+cCpResource WaveBuilder/Resources/splash/Default-Landscape~ipad.png build/emulator/WaveBuilder.app/Default-Landscape~ipad.png
+cCpResource WaveBuilder/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/WaveBuilder.app/Default-Portrait@2x~ipad.png
+cCpResource WaveBuilder/Resources/icons/icon-small@2x.png build/emulator/WaveBuilder.app/icon-small@2x.png
+cCpResource WaveBuilder/Resources/splash/Default-Portrait~ipad.png build/emulator/WaveBuilder.app/Default-Portrait~ipad.png
+cCpResource WaveBuilder/Resources/icons/icon-40.png build/emulator/WaveBuilder.app/icon-40.png
+cCpResource WaveBuilder/Resources/splash/Default@2x~iphone.png build/emulator/WaveBuilder.app/Default@2x~iphone.png
+cCpResource WaveBuilder/Resources/icons/icon-60.png build/emulator/WaveBuilder.app/icon-60.png
+cCpResource WaveBuilder/Resources/splash/Default~iphone.png build/emulator/WaveBuilder.app/Default~iphone.png
+cCpResource WaveBuilder/Resources/splash/Default-568h@2x~iphone.png build/emulator/WaveBuilder.app/Default-568h@2x~iphone.png
+cCpResource WaveBuilder/Resources/icons/icon-50@2x.png build/emulator/WaveBuilder.app/icon-50@2x.png
+cCpResource WaveBuilder/Resources/icons/icon-76@2x.png build/emulator/WaveBuilder.app/icon-76@2x.png
+cCpResource WaveBuilder/Resources/icons/icon-72@2x.png build/emulator/WaveBuilder.app/icon-72@2x.png
+cProcessPCH /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch.pch WaveBuilder/WaveBuilder-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder normal i386
+cGenerateDSYMFile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app.dSYM /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder
+cTouch /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000534862CB00000000000003B4
+t1397252811
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534862CF000000000000019E
+t1397252815
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000534862CF0000000000059340
+t1397252815
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534862D00000000000446820
+t1397252816
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000534862D000000000000F1A80
+t1397252816
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000534862D200000000001BE790
+t1397252818
+s1828752
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/AppDelegate.m
+c00000000542C85B70000000000001771
+t1412203959
+s6001
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.m
+c00000000542C85B7000000000000126C
+t1412203959
+s4716
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.xib
+c00000000542C85B70000000000001759
+t1412203959
+s5977
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/de.lproj/Localizable.strings
+c00000000542C85B700000000000004C0
+t1412203959
+s1216
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/en.lproj/Localizable.strings
+c00000000542C85B700000000000004AB
+t1412203959
+s1195
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-40.png
+c00000000542C85B70000000000000FF2
+t1412203959
+s4082
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-40@2x.png
+c00000000542C85B70000000000001CF3
+t1412203959
+s7411
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-50.png
+c00000000542C85B7000000000000130A
+t1412203959
+s4874
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-50@2x.png
+c00000000542C85B7000000000000258B
+t1412203959
+s9611
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-60.png
+c00000000542C85B700000000000016B3
+t1412203959
+s5811
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-60@2x.png
+c00000000542C85B70000000000002E94
+t1412203959
+s11924
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-72.png
+c00000000542C85B70000000000001350
+t1412203959
+s4944
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-72@2x.png
+c00000000542C85B70000000000002DBA
+t1412203959
+s11706
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-76.png
+c00000000542C85B70000000000001B71
+t1412203959
+s7025
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-76@2x.png
+c00000000542C85B70000000000003B9E
+t1412203959
+s15262
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-small.png
+c00000000542C85B70000000000000CDE
+t1412203959
+s3294
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-small@2x.png
+c00000000542C85B700000000000015E8
+t1412203959
+s5608
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon.png
+c00000000542C85B70000000000000F3E
+t1412203959
+s3902
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon@2x.png
+c00000000542C85B70000000000001EBD
+t1412203959
+s7869
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-568h@2x~iphone.png
+c00000000542C85B700000000000085B1
+t1412203959
+s34225
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000542C85B70000000000033D0A
+t1412203959
+s212234
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-Landscape~ipad.png
+c00000000542C85B700000000000166A2
+t1412203959
+s91810
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000542C85B70000000000033F7C
+t1412203959
+s212860
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-Portrait~ipad.png
+c00000000542C85B70000000000016641
+t1412203959
+s91713
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default@2x~iphone.png
+c00000000542C85B70000000000007323
+t1412203959
+s29475
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default~iphone.png
+c00000000542C85B7000000000000289A
+t1412203959
+s10394
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Info.plist
+c00000000542C85BC0000000000000A17
+t1412203964
+s2583
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Prefix.pch
+c00000000542C85B700000000000003C7
+t1412203959
+s967
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/main.m
+c00000000542C85B7000000000000045D
+t1412203959
+s1117
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.o
+t1412203965
+s77392
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.o
+t1412203965
+s51560
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/WaveBuilder.LinkFileList
+c00000000542C85BD00000000000001C8
+t1412203965
+s456
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.o
+t1412203965
+s2980
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Script-304B58A110DAC018002A0835.sh
+c00000000542C85BD000000000000002D
+t1412203965
+s45
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app
+t1412203965
+s1020
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app.dSYM
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-568h@2x~iphone.png
+t1412203965
+s34225
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-Landscape@2x~ipad.png
+t1412203965
+s212234
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-Landscape~ipad.png
+t1412203965
+s91810
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-Portrait@2x~ipad.png
+t1412203965
+s212860
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-Portrait~ipad.png
+t1412203965
+s91713
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default@2x~iphone.png
+t1412203965
+s29475
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default~iphone.png
+t1412203965
+s10394
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Info.plist
+t1412203965
+s1293
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/MainViewController.nib
+t1412203965
+s836
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/PkgInfo
+t2
+s0
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder
+t1412203965
+s277104
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/de.lproj/Localizable.strings
+t1412203965
+s280
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/en.lproj/Localizable.strings
+t1412203965
+s166
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-40.png
+t1412203965
+s4082
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-40@2x.png
+t1412203965
+s7411
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-50.png
+t1412203965
+s4874
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-50@2x.png
+t1412203965
+s9611
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-60.png
+t1412203965
+s5811
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-60@2x.png
+t1412203965
+s11924
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-72.png
+t1412203965
+s4944
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-72@2x.png
+t1412203965
+s11706
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-76.png
+t1412203965
+s7025
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-76@2x.png
+t1412203965
+s15262
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-small.png
+t1412203965
+s3294
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-small@2x.png
+t1412203965
+s5608
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon.png
+t1412203965
+s3902
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon@2x.png
+t1412203965
+s7869
+
+N/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a
+c00000000542C85BD00000000000D4310
+t1412203965
+s869136
+
+N/var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch.pch
+t1412203965
+s5376712
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdb156e3dbddcb941^9a086f3dbddcb941^---0#1#1#--18"Check dependencies36"A0F8F4C7-6AA5-4284-8EC5-BA7C4F4C26FC-
+
+CCompileC build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.754390
+e433896765.805162
+r1
+xCompileC
+xbuild/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/AppDelegate.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/AppDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/AppDelegate.m224"[1mCompileC[0m build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.o [1mWaveBuilder/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8940c13dbddcb941^f31fce3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/AppDelegate.m0000000000000000^4143"[1mCompileC[0m build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.o [1mWaveBuilder/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/usr/local/lib/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/UninstalledProducts/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/AppDelegate.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.o36"93507E2F-CA1F-4BD1-BF34-53DB4F11B10A-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCompileC build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.754679
+e433896765.796349
+r1
+xCompileC
+xbuild/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.m
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.m238"[1mCompileC[0m build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.o [1mWaveBuilder/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b52c13dbddcb941^2fdecb3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.m0000000000000000^4185"[1mCompileC[0m build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.o [1mWaveBuilder/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/usr/local/lib/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/UninstalledProducts/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.o36"F6C91003-2F9A-4F07-BD51-2814B19B6D47-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCompileC build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.754062
+e433896765.771465
+r1
+xCompileC
+xbuild/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.o
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/main.m202"[1mCompileC[0m build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.o [1mWaveBuilder/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a2cc13dbddcb941^1b80c53dbddcb941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/main.m0000000000000000^4085"[1mCompileC[0m build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.o [1mWaveBuilder/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/usr/local/lib/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/UninstalledProducts/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -include /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch -MMD -MT dependencies -MF /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.dia -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/main.m -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.o36"DC8C032B-C31A-4DE0-A8E9-D17C3CE38A74-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCompileXIB /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.xib
+s433896765.539548
+e433896765.554155
+r1
+xCompileXIB
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compiling /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.xib69"[1mCompileXIB[0m [1mWaveBuilder/Classes/MainViewController.xib[0mff3f8a3dbddcb941^37de8d3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.xib0000000000000000^1122"[1mCompileXIB[0m [1mWaveBuilder/Classes/MainViewController.xib[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/MainViewController.nib /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Classes/MainViewController.xib36"6DB1FDC1-D292-4910-8418-E5A6D045FAF1-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCopyStringsFile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/de.lproj/Localizable.strings WaveBuilder/Resources/de.lproj/Localizable.strings
+s433896765.540201
+e433896765.541960
+r1
+xCopyStringsFile
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/de.lproj/Localizable.strings
+xWaveBuilder/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy WaveBuilder/Resources/de.lproj/Localizable.strings134"[1mCopyStringsFile[0m build/emulator/WaveBuilder.app/de.lproj/Localizable.strings WaveBuilder/Resources/de.lproj/Localizable.strings16698a3dbddcb941^b2bd8a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/de.lproj/Localizable.strings0000000000000000^915"[1mCopyStringsFile[0m build/emulator/WaveBuilder.app/de.lproj/Localizable.strings WaveBuilder/Resources/de.lproj/Localizable.strings    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/de.lproj -- WaveBuilder/Resources/de.lproj/Localizable.strings36"CB2DAEC3-64A9-48A1-8E33-D32B73599A2E-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCopyStringsFile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/en.lproj/Localizable.strings WaveBuilder/Resources/en.lproj/Localizable.strings
+s433896765.539147
+e433896765.540241
+r1
+xCopyStringsFile
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/en.lproj/Localizable.strings
+xWaveBuilder/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy WaveBuilder/Resources/en.lproj/Localizable.strings134"[1mCopyStringsFile[0m build/emulator/WaveBuilder.app/en.lproj/Localizable.strings WaveBuilder/Resources/en.lproj/Localizable.strings3a1f8a3dbddcb941^c24d8a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/en.lproj/Localizable.strings0000000000000000^915"[1mCopyStringsFile[0m build/emulator/WaveBuilder.app/en.lproj/Localizable.strings WaveBuilder/Resources/en.lproj/Localizable.strings    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/en.lproj -- WaveBuilder/Resources/en.lproj/Localizable.strings36"57B56E3F-E9C7-4953-BC09-5B79AEC66F10-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-40.png build/emulator/WaveBuilder.app/icon-40.png
+s433896765.542597
+e433896765.543544
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-40.png
+xbuild/emulator/WaveBuilder.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/WaveBuilder.app/icon-40.png101"[1mCpResource[0m WaveBuilder/Resources/icons/icon-40.png build/emulator/WaveBuilder.app/icon-40.png4cff8a3dbddcb941^46278b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-40.png00347c41ddffdf42^935"[1mCpResource[0m WaveBuilder/Resources/icons/icon-40.png build/emulator/WaveBuilder.app/icon-40.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-40.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"3F8D5B92-5121-4262-A72C-CAB3CA6C5F59-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-40@2x.png build/emulator/WaveBuilder.app/icon-40@2x.png
+s433896765.538014
+e433896765.538741
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-40@2x.png
+xbuild/emulator/WaveBuilder.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/WaveBuilder.app/icon-40@2x.png107"[1mCpResource[0m WaveBuilder/Resources/icons/icon-40@2x.png build/emulator/WaveBuilder.app/icon-40@2x.png0cc9893dbddcb941^c0ed893dbddcb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-40@2x.png00347c41ddffdf42^944"[1mCpResource[0m WaveBuilder/Resources/icons/icon-40@2x.png build/emulator/WaveBuilder.app/icon-40@2x.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-40@2x.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"AA95F6E5-F0C4-4379-AA8F-9A5C56140BB2-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-50.png build/emulator/WaveBuilder.app/icon-50.png
+s433896765.539739
+e433896765.540631
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-50.png
+xbuild/emulator/WaveBuilder.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/WaveBuilder.app/icon-50.png101"[1mCpResource[0m WaveBuilder/Resources/icons/icon-50.png build/emulator/WaveBuilder.app/icon-50.pngd9408a3dbddcb941^ae658a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-50.png00347c41ddffdf42^935"[1mCpResource[0m WaveBuilder/Resources/icons/icon-50.png build/emulator/WaveBuilder.app/icon-50.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-50.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"C03BF41F-F1C3-4617-B3C9-1F98BB2C1C72-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-50@2x.png build/emulator/WaveBuilder.app/icon-50@2x.png
+s433896765.544404
+e433896765.545342
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-50@2x.png
+xbuild/emulator/WaveBuilder.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/WaveBuilder.app/icon-50@2x.png107"[1mCpResource[0m WaveBuilder/Resources/icons/icon-50@2x.png build/emulator/WaveBuilder.app/icon-50@2x.png60728b3dbddcb941^029b8b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-50@2x.png00347c41ddffdf42^944"[1mCpResource[0m WaveBuilder/Resources/icons/icon-50@2x.png build/emulator/WaveBuilder.app/icon-50@2x.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-50@2x.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"2ACE5274-D93D-42CD-AD01-B371044F7431-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-60.png build/emulator/WaveBuilder.app/icon-60.png
+s433896765.543288
+e433896765.544224
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-60.png
+xbuild/emulator/WaveBuilder.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/WaveBuilder.app/icon-60.png101"[1mCpResource[0m WaveBuilder/Resources/icons/icon-60.png build/emulator/WaveBuilder.app/icon-60.png2f308b3dbddcb941^11528b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-60.png00347c41ddffdf42^935"[1mCpResource[0m WaveBuilder/Resources/icons/icon-60.png build/emulator/WaveBuilder.app/icon-60.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-60.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"2A261B95-DD8D-405E-975A-924070953B4A-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-60@2x.png build/emulator/WaveBuilder.app/icon-60@2x.png
+s433896765.539976
+e433896765.540837
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-60@2x.png
+xbuild/emulator/WaveBuilder.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/WaveBuilder.app/icon-60@2x.png107"[1mCpResource[0m WaveBuilder/Resources/icons/icon-60@2x.png build/emulator/WaveBuilder.app/icon-60@2x.pngce528a3dbddcb941^ab948a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-60@2x.png00347c41ddffdf42^944"[1mCpResource[0m WaveBuilder/Resources/icons/icon-60@2x.png build/emulator/WaveBuilder.app/icon-60@2x.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-60@2x.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"E671ECC1-F932-4C68-A365-0E1CD7BCC45D-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-72.png build/emulator/WaveBuilder.app/icon-72.png
+s433896765.538165
+e433896765.539128
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-72.png
+xbuild/emulator/WaveBuilder.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/WaveBuilder.app/icon-72.png101"[1mCpResource[0m WaveBuilder/Resources/icons/icon-72.png build/emulator/WaveBuilder.app/icon-72.png26e2893dbddcb941^4b048a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-72.png00347c41ddffdf42^935"[1mCpResource[0m WaveBuilder/Resources/icons/icon-72.png build/emulator/WaveBuilder.app/icon-72.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-72.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"475E4440-9DEF-4A27-92B7-C87F2D249B1E-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-72@2x.png build/emulator/WaveBuilder.app/icon-72@2x.png
+s433896765.544840
+e433896765.545627
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-72@2x.png
+xbuild/emulator/WaveBuilder.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/WaveBuilder.app/icon-72@2x.png107"[1mCpResource[0m WaveBuilder/Resources/icons/icon-72@2x.png build/emulator/WaveBuilder.app/icon-72@2x.pngb08e8b3dbddcb941^29b18b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-72@2x.png00347c41ddffdf42^944"[1mCpResource[0m WaveBuilder/Resources/icons/icon-72@2x.png build/emulator/WaveBuilder.app/icon-72@2x.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-72@2x.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"CE88D39A-921A-4B85-B2D5-DFCFD38C32AB-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-76.png build/emulator/WaveBuilder.app/icon-76.png
+s433896765.537904
+e433896765.538639
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-76.png
+xbuild/emulator/WaveBuilder.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/WaveBuilder.app/icon-76.png101"[1mCpResource[0m WaveBuilder/Resources/icons/icon-76.png build/emulator/WaveBuilder.app/icon-76.pngb9c4893dbddcb941^a4e4893dbddcb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-76.png00347c41ddffdf42^935"[1mCpResource[0m WaveBuilder/Resources/icons/icon-76.png build/emulator/WaveBuilder.app/icon-76.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-76.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"65D83E6F-BC0E-414F-9534-D1A85B5DA282-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-76@2x.png build/emulator/WaveBuilder.app/icon-76@2x.png
+s433896765.544645
+e433896765.545466
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-76@2x.png
+xbuild/emulator/WaveBuilder.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/WaveBuilder.app/icon-76@2x.png107"[1mCpResource[0m WaveBuilder/Resources/icons/icon-76@2x.png build/emulator/WaveBuilder.app/icon-76@2x.png6e868b3dbddcb941^e8a48b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-76@2x.png00347c41ddffdf42^944"[1mCpResource[0m WaveBuilder/Resources/icons/icon-76@2x.png build/emulator/WaveBuilder.app/icon-76@2x.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-76@2x.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"A1AC85EF-8846-4845-BDB5-F249CBAFA440-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-small.png build/emulator/WaveBuilder.app/icon-small.png
+s433896765.540381
+e433896765.541466
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-small.png
+xbuild/emulator/WaveBuilder.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/WaveBuilder.app/icon-small.png107"[1mCpResource[0m WaveBuilder/Resources/icons/icon-small.png build/emulator/WaveBuilder.app/icon-small.png75768a3dbddcb941^58ab8a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-small.png00347c41ddffdf42^944"[1mCpResource[0m WaveBuilder/Resources/icons/icon-small.png build/emulator/WaveBuilder.app/icon-small.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-small.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"42888C44-C6F1-449F-9327-756AA1726865-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon-small@2x.png build/emulator/WaveBuilder.app/icon-small@2x.png
+s433896765.541849
+e433896765.542820
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon-small@2x.png
+xbuild/emulator/WaveBuilder.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/WaveBuilder.app/icon-small@2x.png113"[1mCpResource[0m WaveBuilder/Resources/icons/icon-small@2x.png build/emulator/WaveBuilder.app/icon-small@2x.png39d18a3dbddcb941^b4028b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon-small@2x.png00347c41ddffdf42^953"[1mCpResource[0m WaveBuilder/Resources/icons/icon-small@2x.png build/emulator/WaveBuilder.app/icon-small@2x.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon-small@2x.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"FD546F99-BC05-4EB8-9123-EA9F19BFACB9-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon.png build/emulator/WaveBuilder.app/icon.png
+s433896765.538388
+e433896765.539391
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon.png
+xbuild/emulator/WaveBuilder.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy build/emulator/WaveBuilder.app/icon.png95"[1mCpResource[0m WaveBuilder/Resources/icons/icon.png build/emulator/WaveBuilder.app/icon.png99f2893dbddcb941^05188a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon.png00347c41ddffdf42^926"[1mCpResource[0m WaveBuilder/Resources/icons/icon.png build/emulator/WaveBuilder.app/icon.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"3F811F73-55F9-4746-94D6-39F460145FE5-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/icons/icon@2x.png build/emulator/WaveBuilder.app/icon@2x.png
+s433896765.538796
+e433896765.539592
+r1
+xCpResource
+xWaveBuilder/Resources/icons/icon@2x.png
+xbuild/emulator/WaveBuilder.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy build/emulator/WaveBuilder.app/icon@2x.png101"[1mCpResource[0m WaveBuilder/Resources/icons/icon@2x.png build/emulator/WaveBuilder.app/icon@2x.png1d038a3dbddcb941^4f228a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/icon@2x.png00347c41ddffdf42^935"[1mCpResource[0m WaveBuilder/Resources/icons/icon@2x.png build/emulator/WaveBuilder.app/icon@2x.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/icons/icon@2x.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"7BE384DE-F5E9-4410-A761-83FF827EA4BC-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/splash/Default-568h@2x~iphone.png build/emulator/WaveBuilder.app/Default-568h@2x~iphone.png
+s433896765.543983
+e433896765.544968
+r1
+xCpResource
+xWaveBuilder/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/WaveBuilder.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/WaveBuilder.app/Default-568h@2x~iphone.png132"[1mCpResource[0m WaveBuilder/Resources/splash/Default-568h@2x~iphone.png build/emulator/WaveBuilder.app/Default-568h@2x~iphone.png5f5f8b3dbddcb941^b2828b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-568h@2x~iphone.png00347c41ddffdf42^982"[1mCpResource[0m WaveBuilder/Resources/splash/Default-568h@2x~iphone.png build/emulator/WaveBuilder.app/Default-568h@2x~iphone.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-568h@2x~iphone.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"74D70506-8178-49ED-92D3-C567050C2D75-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/WaveBuilder.app/Default-Landscape@2x~ipad.png
+s433896765.540982
+e433896765.542393
+r1
+xCpResource
+xWaveBuilder/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/WaveBuilder.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/emulator/WaveBuilder.app/Default-Landscape@2x~ipad.png138"[1mCpResource[0m WaveBuilder/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/WaveBuilder.app/Default-Landscape@2x~ipad.pngc0ae8a3dbddcb941^bada8a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-Landscape@2x~ipad.png00347c41ddffdf42^991"[1mCpResource[0m WaveBuilder/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/WaveBuilder.app/Default-Landscape@2x~ipad.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-Landscape@2x~ipad.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"2C3C825D-B74E-4A46-8FF0-8D3C125358D8-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/splash/Default-Landscape~ipad.png build/emulator/WaveBuilder.app/Default-Landscape~ipad.png
+s433896765.541312
+e433896765.542807
+r1
+xCpResource
+xWaveBuilder/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/WaveBuilder.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/WaveBuilder.app/Default-Landscape~ipad.png132"[1mCpResource[0m WaveBuilder/Resources/splash/Default-Landscape~ipad.png build/emulator/WaveBuilder.app/Default-Landscape~ipad.png62c08a3dbddcb941^0dfe8a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-Landscape~ipad.png00347c41ddffdf42^982"[1mCpResource[0m WaveBuilder/Resources/splash/Default-Landscape~ipad.png build/emulator/WaveBuilder.app/Default-Landscape~ipad.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-Landscape~ipad.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"37F3B313-9AB0-4DC2-A3BC-A482C420BE51-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/WaveBuilder.app/Default-Portrait@2x~ipad.png
+s433896765.541595
+e433896765.542803
+r1
+xCpResource
+xWaveBuilder/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/WaveBuilder.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/WaveBuilder.app/Default-Portrait@2x~ipad.png136"[1mCpResource[0m WaveBuilder/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/WaveBuilder.app/Default-Portrait@2x~ipad.pngf0be8a3dbddcb941^98f98a3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-Portrait@2x~ipad.png00347c41ddffdf42^988"[1mCpResource[0m WaveBuilder/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/WaveBuilder.app/Default-Portrait@2x~ipad.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-Portrait@2x~ipad.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"363477E4-56BC-4862-AB3E-D89F80A7EE8B-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/splash/Default-Portrait~ipad.png build/emulator/WaveBuilder.app/Default-Portrait~ipad.png
+s433896765.542121
+e433896765.543167
+r1
+xCpResource
+xWaveBuilder/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/WaveBuilder.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/WaveBuilder.app/Default-Portrait~ipad.png130"[1mCpResource[0m WaveBuilder/Resources/splash/Default-Portrait~ipad.png build/emulator/WaveBuilder.app/Default-Portrait~ipad.png86e28a3dbddcb941^6f0e8b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default-Portrait~ipad.png00347c41ddffdf42^979"[1mCpResource[0m WaveBuilder/Resources/splash/Default-Portrait~ipad.png build/emulator/WaveBuilder.app/Default-Portrait~ipad.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default-Portrait~ipad.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"F5686146-8B7F-4150-91C3-70003F0270A5-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/splash/Default@2x~iphone.png build/emulator/WaveBuilder.app/Default@2x~iphone.png
+s433896765.542963
+e433896765.544014
+r1
+xCpResource
+xWaveBuilder/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/WaveBuilder.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/emulator/WaveBuilder.app/Default@2x~iphone.png122"[1mCpResource[0m WaveBuilder/Resources/splash/Default@2x~iphone.png build/emulator/WaveBuilder.app/Default@2x~iphone.pngca188b3dbddcb941^e9478b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default@2x~iphone.png00347c41ddffdf42^967"[1mCpResource[0m WaveBuilder/Resources/splash/Default@2x~iphone.png build/emulator/WaveBuilder.app/Default@2x~iphone.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default@2x~iphone.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"2808EABE-B563-4362-9C44-7E9B7744EDF3-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CCpResource WaveBuilder/Resources/splash/Default~iphone.png build/emulator/WaveBuilder.app/Default~iphone.png
+s433896765.543682
+e433896765.544772
+r1
+xCpResource
+xWaveBuilder/Resources/splash/Default~iphone.png
+xbuild/emulator/WaveBuilder.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/WaveBuilder.app/Default~iphone.png116"[1mCpResource[0m WaveBuilder/Resources/splash/Default~iphone.png build/emulator/WaveBuilder.app/Default~iphone.png32568b3dbddcb941^08778b3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Default~iphone.png00347c41ddffdf42^958"[1mCpResource[0m WaveBuilder/Resources/splash/Default~iphone.png build/emulator/WaveBuilder.app/Default~iphone.png    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/Resources/splash/Default~iphone.png /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"8327D101-B75E-492B-A2AA-6124EB68C12A-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CGenerateDSYMFile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app.dSYM /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder
+s433896765.856102
+e433896765.883690
+r1
+xGenerateDSYMFile
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app.dSYM
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Generate /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app.dSYM111"[1mGenerateDSYMFile[0m [1mbuild/emulator/WaveBuilder.app.dSYM[0m build/emulator/WaveBuilder.app/WaveBuildereb37db3dbddcb941^c539e23dbddcb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app.dSYM00347c41ddffdf42^944"[1mGenerateDSYMFile[0m [1mbuild/emulator/WaveBuilder.app.dSYM[0m build/emulator/WaveBuilder.app/WaveBuilder    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app.dSYM36"720ECCDC-6AAA-4049-8060-463E79D764B2-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CLd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder normal i386
+s433896765.806122
+e433896765.855242
+r1
+xLd
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder
+xnormal
+xi386
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/WaveBuilder.LinkFileList
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/main.o
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/AppDelegate.o
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Link /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder65"[1mLd[0m build/emulator/WaveBuilder.app/WaveBuilder normal i386b070ce3dbddcb941^edf1da3dbddcb941^---0#0#1#--2041"[1mLd[0m build/emulator/WaveBuilder.app/WaveBuilder normal i386    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -filelist /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/WaveBuilder.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Objects-normal/i386/WaveBuilder_dependency_info.dat -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/WaveBuilder36"8893622D-178F-4297-8356-27E12704904D-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CPhaseScriptExecution Copy\ www\ directory /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Script-304B58A110DAC018002A0835.sh
+s433896765.436906
+e433896765.537484
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.084s
+ouser	0m0.035s
+osys	0m0.049s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'148"[1mPhaseScriptExecution[0m Copy\ www\ directory build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Script-304B58A110DAC018002A0835.shfc1b703dbddcb941^cc99893dbddcb941^-42"real	0m0.084suser	0m0.035ssys	0m0.049s3(21%IDEActivityLogMessage2@14"real	0m0.084s-433896765#1#14#-0#-----2@14"user	0m0.035s-433896765#15#14#-0#-----2@13"sys	0m0.049s-433896765#29#13#-0#-----0#0#1#--378"[1mPhaseScriptExecution[0m Copy\ www\ directory build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Script-304B58A110DAC018002A0835.sh    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    /bin/sh -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/Script-304B58A110DAC018002A0835.sh36"9070380B-0A42-4182-8B39-943A699DC1FB-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CProcessInfoPlistFile /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Info.plist /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Info.plist
+s433896765.433492
+e433896765.435207
+r1
+xProcessInfoPlistFile
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Info.plist
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Process /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Info.plist113"[1mProcessInfoPlistFile[0m build/emulator/WaveBuilder.app/Info.plist [1mWaveBuilder/WaveBuilder-Info.plist[0mcb146f3dbddcb941^e0686f3dbddcb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Info.plist0000000000000000^1040"[1mProcessInfoPlistFile[0m build/emulator/WaveBuilder.app/Info.plist [1mWaveBuilder/WaveBuilder-Info.plist[0m    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    builtin-infoPlistUtility /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Info.plist -genpkginfo /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app/Info.plist36"2C921CBD-3255-4897-B91C-E167BD3AA693-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CProcessPCH /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch.pch WaveBuilder/WaveBuilder-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433896765.554797
+e433896765.753316
+r1
+xProcessPCH
+x/var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch.pch
+xWaveBuilder/WaveBuilder-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile WaveBuilder/WaveBuilder-Prefix.pch314"[1mProcessPCH[0m /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch.pch WaveBuilder/WaveBuilder-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36208e3dbddcb941^49dbc03dbddcb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Prefix.pch0000000000000000^4162"[1mProcessPCH[0m /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch.pch WaveBuilder/WaveBuilder-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-generated-files.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-own-target-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-all-target-headers.hmap -iquote /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/WaveBuilder-project-headers.hmap -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/usr/local/lib/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/UninstalledProducts/include -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/DerivedSources/i386 -I/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/WaveBuilder.build/Debug-iphonesimulator/WaveBuilder.build/DerivedSources -F/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator --serialize-diagnostics /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch.d -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/WaveBuilder/WaveBuilder-Prefix.pch -o /var/folders/38/mptg8hm135d59yg7fjjrb7ww0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/WaveBuilder-Prefix-eurlfgxrshpmzefflwruzrxdazwv/WaveBuilder-Prefix.pch.pch36"DD0DF398-79FB-4898-A4EE-6AEFB16CA53E-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+
+CTouch /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app
+s433896765.884590
+e433896765.887804
+r1
+xTouch
+x/Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Touch /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app44"[1mTouch[0m build/emulator/WaveBuilder.app3c83e23dbddcb941^e947e33dbddcb941^---0#0#1#--694"[1mTouch[0m build/emulator/WaveBuilder.app    cd /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484/bin:/Users/lahardy/.rvm/gems/ruby-1.9.3-p484@global/bin:/Users/lahardy/.rvm/rubies/ruby-1.9.3-p484/bin:/Users/lahardy/bin/Sencha/Cmd/4.0.1.45:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/Users/lahardy/.rvm/bin"    /usr/bin/touch -c /Users/lahardy/Sites/141001-WaveBuilder/platforms/ios/build/emulator/WaveBuilder.app36"97055272-6BA8-4F3C-AA86-3E991F0D799C-
+b30CE2C8D-F6E9-435E-9A3F-63FD0E9C26FF
+

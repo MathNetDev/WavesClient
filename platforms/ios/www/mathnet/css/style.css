@@ -1,0 +1,22 @@
+.container {
+    border: none;
+    background-color: #abc;
+}
+body {
+    padding: 15px;
+    background-color: #abc;
+}
+#error_frame:not(:empty){
+    color:red;
+    border: 2px solid rgba(0, 0, 0, 0.12);
+    border-radius: 3px;
+    background-color: rgba(200, 192, 192, 0.38);
+    padding: 5px;
+}
+
+.tab-content{
+    background:#fff;
+    overflow:auto;
+    padding: 0 0 2em 0;
+    border-radius: 0 0 4px 4px;
+}

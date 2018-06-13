@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=1024, height=768, target-densitydpi=device-dpi" />
+        <title>WavesNet</title>
+        <link rel="stylesheet" href="css/style.css"/>
+        <style type="text/css">
+            #overlay {
+                 visibility: visible;
+                 width: 100%;
+                 height: 100%;
+                 text-align: center;
+                 z-index: 1000;
+            }
+
+            #overlay div {
+                 width: 100%;
+                 height: 100%;
+                 background-color: #fff;
+                 text-align: center;
+            }
+
+            #login {
+                
+            }
+
+        </style>
+    </head>
+    <body> 
+        <canvas id="collab"></canvas>
+        <div id="overlay">
+            <div>
+                <form id="login">
+                    Name: <input id="username" type="text" name="name"><br>
+                    Group: <input id="group" type="text" name="group"><br><br>
+                    <input id="loginButton" type="button" value="Start">
+                </form>
+             </div>
+        </div>
+        <img id="stopwatch" src="img/stopwatch.png" width="0" height="0">
+        <img id="play" src="img/play_icon.png" width="0" height="0">
+        <img id="pause" src="img/pause_icon.png" width="0" height="0">
+        <script type="text/javascript" src="cordova.js"></script>
+        <script data-main="js/main" src="js/lib/require.min.js"></script>
+    </body>
+</html>
