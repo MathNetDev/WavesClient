@@ -1,1 +1,1 @@
-var host = "http://wavesclient.ucdavis.edu:8885";
+var host = "http://wavesclient.ucdavis.edu";
