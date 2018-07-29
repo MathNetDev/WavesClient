@@ -2,7 +2,7 @@
 
 $hookSecret = trim(file_get_contents("/var/www/html/.webhook_secret"));
 
-if($hookSecret !== NULL)
+if($hookSecret !== NULL && $_SERVER["HTTP_X_HUB_SIGNATURE"])
 {
   if(!isset($_SERVER["HTTP_X_HUB_SIGNATURE"]))
   {
