@@ -40,7 +40,7 @@ switch(strtolower($_SERVER["HTTP_X_GITHUB_EVENT"]))
       system("cd /var/www/html/waves/WavesClient && /usr/bin/git checkout master && /usr/bin/git reset HEAD --hard && /usr/bin/git pull origin master", $dummy);
       system("cd /var/www/html/waves/WavesServer && /usr/bin/git checkout master && /usr/bin/git reset HEAD --hard && /usr/bin/git pull origin master", $dummy2);
       system("killall node", $dummy3);
-      system("/usr/bin/nohup /usr/bin/node /var/www/html/waves/WavesServer/server.js 8885 &", $dummy4);
+      system("/usr/bin/nohup /usr/bin/node /var/www/html/waves/WavesServer/server.js 8885 > /dev/null 2>&1 &", $dummy4);
       echo "Ran Waves commands " . $dummy . "\n" . $dummy2 . "\n" . $dummy3 . "\n" . $dummy4;
     }
     break;
