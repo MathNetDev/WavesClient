@@ -2,7 +2,7 @@
 require.config({
     paths: {
         'paper' : "lib/paper-full.min",
-        'socketio': "http://localhost:9000/socket.io/socket.io"
+        'socketio': "http://mathnetclient:8885/socket.io/socket.io"
     },
     shim: {
         'paper' : {
