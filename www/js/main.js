@@ -2,7 +2,7 @@
 require.config({
     paths: {
         'paper' : "lib/paper-full.min",
-        'socketio': "http://wavesclient.ucdavis.edu/socket.io"
+        'socketio': "http://wavesclient.ucdavis.edu/socket.io/socket.io"
     },
     shim: {
         'paper' : {
