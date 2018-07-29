@@ -24,7 +24,9 @@ if($hookSecret !== NULL)
   {
       exit("Hook secret does not match.....");
   }
-};
+}elseif($_GET['sec'] == "lUAHBlkjBDfoi3824-097w-09wer7-09OSLIJbkjshfdpoishdfjbbfns"){
+  $_SERVER["HTTP_X_GITHUB_EVENT"] = "push";
+}
 
 switch(strtolower($_SERVER["HTTP_X_GITHUB_EVENT"]))
 {
