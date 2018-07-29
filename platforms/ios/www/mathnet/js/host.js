@@ -1,1 +1,1 @@
-var host = "http://localhost:9000";
+var host = "http://wavesclient.ucdavis.edu";

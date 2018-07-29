@@ -3,7 +3,7 @@ define(['socketio'], function (io) {
 		
 		var disconnect = false,
 		    delegate,
-		    socket = io.connect('ws://localhost:9000'),
+		    socket = io.connect('ws://wavesclient.ucdavis.edu'),
 		    //socket = io.connect('ws://10.0.1.5:9000'),
 		    username,
 		    group;
